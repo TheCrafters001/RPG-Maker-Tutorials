@@ -24,3 +24,4 @@ RPG Maker is not a free program. Visit the version you want to get the RTP (Not 
 | Game Character Hub                    | $14.99        | No           | [Steam](https://store.steampowered.com/app/292230/Game_Character_Hub/) |
 | Game Character Hub: Portfolio Edition | $29.99        | No           | [Steam](https://store.steampowered.com/app/529830/Game_Character_Hub_Portfolio_Edition/), [RPG Maker Web](https://www.rpgmakerweb.com/products/programs/game-character-hub-portfolio-edition) |
 
+I do not own the RPG Maker Brand, the RPG Maker Brand is owned by [Enterbrain](https://enterbrain.kadokawa.co.jp/), Agetec, and [Degica Games](http://www.degicagames.com/).
